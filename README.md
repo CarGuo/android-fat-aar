@@ -1,7 +1,5 @@
 # Current Status
-I am no longer involved in development, so am not able to maintain or provide bug fixes or even test the pull requests. It would be great if someone who actually is using this project in their library and can actively maintain the repo, become part of/take it over.
-
-Meanwhile, you can also check [fat-aar-plugin](https://github.com/Vigi0303/fat-aar-plugin) which is trying to solve the same problem using a plugin.
+this repository fork from https://github.com/adwiv/android-fat-aar , fix some error.
 
 # android-fat-aar
 Gradle script that allows you to merge and embed dependencies in generated aar file. 
