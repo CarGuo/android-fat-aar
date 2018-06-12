@@ -1,6 +1,8 @@
 # Current Status
 this repository fork from https://github.com/adwiv/android-fat-aar , fix some error.
 
+### [fat-aar analysis](http://www.huahuaxie.com/fat-aar-implementation-analysis/)
+
 # android-fat-aar
 Gradle script that allows you to merge and embed dependencies in generated aar file. 
 
