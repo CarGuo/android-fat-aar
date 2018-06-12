@@ -52,7 +52,7 @@ To use this simply copy the gradle file 'fat-aar.gradle' to your project directo
 
 or apply directly from the url
 
-`apply from: 'https://raw.githubusercontent.com/adwiv/android-fat-aar/master/fat-aar.gradle'`
+`apply from: 'https://raw.githubusercontent.com/CarGuo/android-fat-aar/master/fat-aar.gradle'`
 
 **Step 2: Define the embedded dependencies** 
 
