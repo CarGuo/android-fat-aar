@@ -101,6 +101,7 @@ ext {
 
     classs_release_dir = "$build_dir/intermediates/classes/release"
 
+    //bundle_release_dir = "$build_dir/intermediates/bundles/default"
     bundle_release_dir = "$build_dir/intermediates/bundles/release"
 
     manifest_aapt_dir = "$build_dir/intermediates/manifests/aapt/release"
