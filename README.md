@@ -1,7 +1,24 @@
 # Current Status
 this repository fork from https://github.com/adwiv/android-fat-aar , fix some error.
 
-### [fat-aar analysis](http://www.huahuaxie.com/fat-aar-implementation-analysis/)
+## [fat-aar analysis](http://www.huahuaxie.com/fat-aar-implementation-analysis/)
+
+### 下发图片来源上方链接
+
+![](https://github.com/CarGuo/android-fat-aar/blob/master/fat-aar.png)
+
+```
+```
+
+![](https://github.com/CarGuo/android-fat-aar/blob/master/task-dependencies.png)
+
+```
+``` 
+
+![](https://github.com/CarGuo/android-fat-aar/blob/master/m1.png)
+
+```
+```
 
 # android-fat-aar
 Gradle script that allows you to merge and embed dependencies in generated aar file. 
